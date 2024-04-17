@@ -11,7 +11,7 @@ Differences from original Squirrel language
 Squirrel language was used a lot in all Gaijin projects since 2006.
 Gaijin used Lua before but found Lua too unsafe and hard to debug, and also hard sometimes to bind with native code due to lack of types.
 It is well known and there are lot info on this in the Internet.
-Squirrel has not only C++ like syntax (which is helpful for C++ programmers sometimes), but also has type system much closer to C\C++ code.
+Squirrel has not only C++ like syntax (which is helpful for C++ programmers sometimes), but also has type system much closer to C/C++ code.
 It also has safer syntax and semantic.
 However during heavy usage we found that some features of language are not used in our real codebase of millions of LoC and more 10+ projects on 10+ platforms.
 Some language features were also not very safe, or inconsistent. We need stricter language with tools to easier refactor and support.
