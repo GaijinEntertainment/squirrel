@@ -122,7 +122,7 @@ It is still under development and we would better have typehinting (that is impo
 but it already can be used and it finds potential bugs everyday, before they hit QA or real users.
 
 ### Strict mode
-Like in Javascript, we have [strict-mode](http://quirrel.io/reference/language/compiler_directives.html). There may be more checks in a future, but you can use it for the greater good now.
+Like in Javascript, we have [strict-mode](https://quirrel.io/doc/reference/language/compiler_directives.html). There may be more checks in a future, but you can use it for the greater good now.
 
 ### Debugger
 We have our own debugger, however it currently heavily depends on our internal engine. May be in a future.
